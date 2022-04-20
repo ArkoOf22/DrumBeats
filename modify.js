@@ -53,3 +53,6 @@ document.getElementsByClassName("l")[0].addEventListener("click", function() {
     var audio = new Audio("sounds/snare.mp3");
     audio.play();
 });
+function find() {
+    window.open("https://www.linkedin.com/in/arkodeep-koley-70017478", "_blank");
+}
