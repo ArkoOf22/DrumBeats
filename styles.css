@@ -22,6 +22,11 @@ footer {
     opacity: 50%;
 }
 
+#mytext {
+    font-size: 20px;
+    color: burlywood;
+}
+
 
 /* access string by using url */
 
