@@ -17,6 +17,11 @@ footer {
     font-family: sans-serif;
 }
 
+.pressed {
+    box-shadow: 0 3px 4px 0 #fa0303;
+    opacity: 50%;
+}
+
 
 /* access string by using url */
 
